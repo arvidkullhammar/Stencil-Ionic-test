@@ -1,0 +1,24 @@
+ion-col {
+    background-color: #135d54;
+    border: solid 1px #fff;
+    color: #fff;
+    text-align: center;
+  }
+
+  ion-back-button, ion-icon {
+    color:rgb(58, 58, 58);
+    padding: 20px;
+    transform: scale(1.5);
+  }
+
+
+
+
+  .hero {
+    height: 150px;
+  }
+
+  .video {
+    height: 150px;
+  }
+
